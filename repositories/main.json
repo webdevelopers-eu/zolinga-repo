@@ -1,0 +1,16 @@
+{
+  "about": {
+    "name": "Main repository index.",
+    "description": "This is the official repository index for Zolinga project",
+    "source": "https://github.com/webdevelopers-eu/zolinga-repository.git",
+    "branch": "main"
+  },
+  "list": {
+    {
+      "name": "Zolinga DB",
+      "description": "This is a database service providing MySQL database access and support for installation .sql scripts.",
+      "source": "https://github.com/webdevelopers-eu/zolinga-db.git",
+      "branch": "main"
+    }
+  }
+}
