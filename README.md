@@ -1,2 +1,3 @@
-# zolinga-repository
-This is a repository index for Zolinga PHP framework. You probably don't need it.
+This repository holds the Zolinga module.
+
+Please refer to [Zolinga PHP Framework](https://github.com/webdevelopers-eu/zolinga) for more information.
