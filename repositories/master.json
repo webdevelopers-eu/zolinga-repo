@@ -1,5 +1,6 @@
 {
   "about": {
+    "version": "1.0",
     "name": "Main repository index.",
     "description": "This is the official repository index for Zolinga project",
     "source": "https://github.com/webdevelopers-eu/zolinga-repo.git",
