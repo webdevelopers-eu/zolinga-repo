@@ -10,42 +10,36 @@
     {
       "id": "zolinga-db",
       "name": "Zolinga DB",
-      "version": "1.0",
       "description": "This is a database service providing MySQL database access API and support for installation .sql scripts.",
       "source": "https://github.com/webdevelopers-eu/zolinga-db.git"
     },
     {
       "id": "zolinga-cron",
       "name": "Zolinga Cron",
-      "version": "1.0",
       "description": "This is a cron service providing cron jobs support.",
       "source": "https://github.com/webdevelopers-eu/zolinga-cron.git"
     },
     {
       "id": "zolinga-rms",
       "name": "Zolinga RMS",
-      "version": "1.0",
       "description": "This is a Rights Management System service providing user rights management support.",
       "source": "https://github.com/webdevelopers-eu/zolinga-rms.git"
     },
     {
       "id": "zolinga-intl",
       "name": "Zolinga Intl",
-      "version": "1.0",
       "description": "This is an internationalization service providing translation support and more.",
       "source": "https://github.com/webdevelopers-eu/zolinga-intl.git"
     },
     {
       "id": "zolinga-cms",
       "name": "Zolinga CMS",
-      "version": "1.0",
       "description": "This is a database-less content management system service.",
       "source": "https://github.com/webdevelopers-eu/zolinga-cms.git"
     },
     {
       "id": "zolinga-commons",
       "name": "Zolinga Commons",
-      "version": "1.0",
       "description": "This is a common modules providing common utilities, widgets and support for other modules.",
       "source": "https://github.com/webdevelopers-eu/zolinga-commons.git"
     }
