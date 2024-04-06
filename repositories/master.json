@@ -41,6 +41,13 @@
       "version": "1.0",
       "description": "This is a database-less content management system service.",
       "source": "https://github.com/webdevelopers-eu/zolinga-cms.git"
+    },
+    {
+      "id": "zolinga-commons",
+      "name": "Zolinga Commons",
+      "version": "1.0",
+      "description": "This is a common modules providing common utilities, widgets and support for other modules.",
+      "source": "https://github.com/webdevelopers-eu/zolinga-commons.git"
     }
   ]
 }
