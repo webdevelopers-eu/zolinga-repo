@@ -42,6 +42,12 @@
       "name": "Zolinga Commons",
       "description": "This is a common modules providing common utilities, widgets and support for other modules.",
       "source": "https://github.com/webdevelopers-eu/zolinga-commons.git"
+    },
+    {
+      "id": "zolinga-ai",
+      "name": "Zolinga AI",
+      "description": "This is a common modules providing AI services.",
+      "source": "https://github.com/webdevelopers-eu/zolinga-ai.git"
     }
   ]
 }
